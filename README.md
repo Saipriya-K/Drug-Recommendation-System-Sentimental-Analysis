@@ -11,12 +11,13 @@ The system processes drug reviews, performs text preprocessing, extracts useful 
 Technologies Used
 
 - Python
-- Pandas
-- NumPy
-- NLTK
-- Scikit-learn
-- TF-IDF
-- Naive Bayes
+- Pandas – Dataset loading and manipulation
+- NumPy – Numerical operations
+- NLTK – Text preprocessing
+- Scikit-learn – TF-IDF, Naive Bayes, and evaluation metrics
+- Matplotlib – Data visualization and pie chart
+- Seaborn – Confusion matrix heatmap
+- Regular Expressions ("re") – Text cleaning
 
 Machine Learning Techniques
 
