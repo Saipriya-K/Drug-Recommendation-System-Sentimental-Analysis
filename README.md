@@ -57,6 +57,13 @@ Key Features
 - Machine Learning-based sentiment classification
 - Model performance evaluation
 
+Results
+
+The Naive Bayes model was evaluated using standard classification metrics such as accuracy, precision, recall, and F1-score.
+
+- Accuracy: 53%
+- Evaluation: Classification Report and Confusion Matrix
+
 Future Scope
 
 - Improve recommendation accuracy
